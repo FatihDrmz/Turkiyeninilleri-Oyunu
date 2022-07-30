@@ -1,0 +1,6 @@
+﻿  G211210007.cpp
+C:\Users\PC\source\repos\G211210007\G211210007\G211210007.cpp(24,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\PC\source\repos\G211210007\G211210007\G211210007.cpp(45,31): warning C4018: '>': signed/unsigned mismatch
+C:\Users\PC\source\repos\G211210007\G211210007\G211210007.cpp(57,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\PC\source\repos\G211210007\G211210007\G211210007.cpp(97,33): warning C4018: '>': signed/unsigned mismatch
+  G211210007.vcxproj -> C:\Users\PC\source\repos\G211210007\Debug\G211210007.exe
